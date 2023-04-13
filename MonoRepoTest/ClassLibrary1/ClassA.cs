@@ -4,7 +4,7 @@
     {
         public override string ToString()
         {
-            return "Class A";
+            return "Class A again";
         }
     }
 }
